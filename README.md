@@ -1,12 +1,6 @@
 ### Hi there 👋 
-<p align="center">
-  <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/code.gif?raw=true" style="width:48%; display:inline-block;">
-    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/portafolio.jpg?raw=true" style="width:28%; display:inline-block;">
-</p>
-
-<div style="display: flex;">
-    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/code.gif?raw=true" style="width:48%;">
-    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/code.gif?raw=true" style="width:48%;">
+<div style="display: flex;" align="center">
+    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/image.jpeg?raw=true" style="width:48%;">
 </div>
 
   
