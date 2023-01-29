@@ -1,5 +1,5 @@
 ### Hi there 👋 
- <div style="display: flex; flex-wrap: nowrap; width:50%;">
+ <div style="display: flex; flex-wrap: nowrap; width:10%;">
     <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/code.gif?raw=true" style="flex: 1; max-width:100%; width:100%; object-fit:contain;">
     <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/portafolio.jpg?raw=true" style="flex: 1; max-width:100%; width:100%; object-fit:contain;">
 </div>
