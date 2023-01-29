@@ -51,14 +51,14 @@ I am a Backend Developer based in Ecuador with 1.5 years of experience in the so
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
-### Servers, Hosting, SaaS
+### Servers, Hosting
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-📈   Some of my stats are:
+### Some of my stats are 📈 
 <p align="center">
  <a href="#" alt="Alexis Barrera GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexis-VsCode&theme=tokyonight&show_icons=true" />
