@@ -58,7 +58,6 @@ I am a Backend Developer based in Ecuador with 1.5 years of experience in the so
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br></br>
 📈   Some of my stats are:
 <p align="center">
  <a href="#" alt="Alexis Barrera GitHub Stats">
@@ -67,6 +66,6 @@ I am a Backend Developer based in Ecuador with 1.5 years of experience in the so
 </p>
 <p align="center">
  <a href="#"Alexis Barrera GitHub Stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-VsCode" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-VsCode&theme=tokyonight&show_icons=true" />
  </a>
 </p>
