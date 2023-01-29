@@ -1,6 +1,6 @@
 ### Hi there 👋 
 <div style="display: flex;" align="center">
-    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/image.jpeg?raw=true" style="width:48%;">
+    <img src="https://github.com/Alexis-VsCode/Alexis-VsCode/blob/main/image.jpeg?raw=true">
 </div>
 
   
