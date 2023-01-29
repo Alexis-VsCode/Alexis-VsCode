@@ -63,9 +63,7 @@ I am a Backend Developer based in Ecuador with 1.5 years of experience in the so
  <a href="#" alt="Alexis Barrera GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Alexis-VsCode&theme=tokyonight&show_icons=true" />
  </a>
-</p>
-<p align="center">
- <a href="#"Alexis Barrera GitHub Stats">
+  <a href="#"Alexis Barrera GitHub Stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-VsCode&theme=tokyonight&show_icons=true" />
  </a>
 </p>
